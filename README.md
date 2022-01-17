@@ -16,6 +16,8 @@
 
 This document will explain the fundamentals of how the Breakout game works. 
 
+- ([Youtube Demo](https://youtu.be/4UtAEuN2wGE))
+
 # 1.3 The Rules of Breakout
 
 The rules of the game breakout can be summarised as seen below.
